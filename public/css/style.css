@@ -1,0 +1,33 @@
+
+h1{
+    text-align:center;
+    padding-bottom: 20px;
+}
+
+.table{
+    width:1000px;
+    margin:auto;
+}
+/* 
+#alert_info {
+    display:inline-block;
+} */
+
+footer {
+    text-align: center;
+    width:100%;
+    padding-top:100px;
+}
+
+.row {
+    width:700px;
+    margin:auto;
+}
+
+#form-table {
+    width:100%;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
