@@ -79,10 +79,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => $url["us-cdbr-iron-east-02"],
-	'username' => $url["bfe52f1946bea1"],
-	'password' => $url["e0aa9180"],
-	'database' => substr($url["code_first"], 1),
+	'hostname' => ,
+	'username' => ,
+	'password' => ,
+	'database' => ,
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
